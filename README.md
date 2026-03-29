@@ -37,5 +37,5 @@ This project provides insights into employee attrition using interactive visuali
 This dashboard transforms HR data into actionable insights, helping organizations proactively manage employee attrition and build a more stable workforce.
 
 ### Screenshort / Demos
-Show what the dashboard looks like.
+Show what the dashboard looks like. https://github.com/Ashok-techcode/HR-Attrition---Analysis-Dashboard/blob/main/HR%20Analytics.pbit
 Example. Dashboard Preview https://github.com/Ashok-techcode/HR-Attrition---Analysis-Dashboard/blob/main/Snapshort%20of%20Dashboard.png
