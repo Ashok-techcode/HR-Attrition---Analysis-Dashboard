@@ -38,4 +38,4 @@ This dashboard transforms HR data into actionable insights, helping organization
 
 ### Screenshort / Demos
 Show what the dashboard looks like.
-Example. 
+Example. Dashboard Preview https://github.com/Ashok-techcode/HR-Attrition---Analysis-Dashboard/blob/main/Snapshort%20of%20Dashboard.png
